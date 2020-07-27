@@ -1,0 +1,6 @@
+function [gpr_friction,gpr_vibration] = fit_GP_proxy(x,y)
+    gpr_friction = fitrgp(x, y(:,1), 'Basis','constant', 'FitMethod','exact', 'PredictMethod','exact', 'DistanceMethod','accurate', ...
+        'KernelFunction','ardmatern32', 'CategoricalPredictors',[3], 'ConstantSigma',true, 'Sigma',1e-8);
+    gpr_vibration = fitrgp(x, y(:,2), 'Basis','constant', 'FitMethod','exact', 'PredictMethod','exact', 'DistanceMethod','accurate', ...
+        'KernelFunction','ardmatern32', 'CategoricalPredictors',[3], 'ConstantSigma',true, 'Sigma',1e-8);
+end
