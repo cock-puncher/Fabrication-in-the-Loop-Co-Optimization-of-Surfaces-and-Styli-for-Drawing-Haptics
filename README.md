@@ -1,6 +1,6 @@
 # Welcome
 
-This a repository containing supplementary files for our project *Fabrication-in-the-Loop Co-Optimization of Surfaces and Styli for Drawing Hapticsp* ublished on Siggraph 2020. More information on the project, as well as, the full paper are available on our [project webpage](https://www.pdf.inf.usi.ch/projects/SurfaceStylusCoOpt/index.html).
+This a repository containing supplementary files for our project *Fabrication-in-the-Loop Co-Optimization of Surfaces and Styli for Drawing Haptics* published on Siggraph 2020. More information on the project, as well as, the full paper are available on our [project webpage](https://www.pdf.inf.usi.ch/projects/SurfaceStylusCoOpt/index.html).
 
 ## main.m
 
