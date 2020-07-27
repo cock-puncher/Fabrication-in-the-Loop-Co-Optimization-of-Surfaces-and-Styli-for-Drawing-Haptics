@@ -37,7 +37,7 @@ The friction and vibration measurements of each datasample captured by the devic
 ## Citation
 If you use any of these materials, please, reference our original paper:
 ```
-Perception-Aware Modeling and Fabrication of Digital Drawing Tools
+Fabrication-in-the-Loop Co-Optimization of Surfaces and Styli for Drawing Haptics
 Michal Piovarči, Danny M. Kaufman, David I.W. Levin, Piotr Didyk
 ACM Transactions on Graphics 39(4) (Proc. SIGGRAPH 2020, Washington DC, USA) 
 ```
